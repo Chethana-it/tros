@@ -1,1 +1,1 @@
-export const MONGO_URL = "mongodb+srv://root:t93be10EHcniBTtm@firstdatabase.xxvlp.mongodb.net/?retryWrites=true&w=majority"
+export const MONGO_URL = "mongodb_url"
